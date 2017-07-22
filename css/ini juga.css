@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:url(../images/book-fair-678264_1280aaablur.jpg);
+	background-size: cover;
+}
+
+#header{
+	background-color:white;
+	font-family:"aguafina-script";
+	margin: -10px;
+	height:100px;
+}
+img{
+	margin:5px;
+	
+}
+ul{
+	float:right;
+}
+ul li{
+	list-style-type: none;
+	display:inline-block;
+	padding: 20px;
+}
+ul li a{
+	padding: 20px;
+	text-decoration: none;
+	color:darkorchid;
+	font-family:Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+}
+ul li:hover{
+	background-color: skyblue;	
+}
+
+p1{
+	font-family:Tahoma, Geneva, sans-serif;
+	color: whitesmoke;
+	font-size: 48px;
+}
+p2{
+	font-family:Tahoma, Geneva, sans-serif;
+	color: whitesmoke;
+	font-size: 28px;
+}
+#cta{
+	width: 1500px;
+	height:100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+.box{
+	border:double;
+	border-color: white;
+	background: none;
+	padding: 20px;
+	border:1px solid groove;
+	border-radius:30px;
+	color:white;
+	cursor: pointer;
+	margin-right: 10px;
+}
+
+.box:hover{
+	background:white;
+	color:#6F58A7;
+}
+.box2{
+	border:double;
+	border-color: #6F58A7;
+	background:#6F58A7;
+	padding: 20px;
+	width: 150px;
+	border:1px solid groove;
+	border-radius:30px;
+	color: white;
+	cursor: pointer;
+	margin-left: 10px;
+}
+.box2:hover{
+	background: #57428A;
+	color: white;
+}
+#title
+h1{
+	color: blueviolet;
+	font-family:Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";	
+}
+
+#etc{
+	background-color:#A7A1B5;
+	margin: -10px;
+	height:200px;
+	opacity: 0.8;
+}
+left1 img{
+	float:left;
+	margin-left: 0px;
+	margin-top: -88.5px;
+}
+p3{
+	float:right;
+	color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	padding-top:60px;
+	padding-right:400px;
+	font-size: 24px
+}
+p4{
+	float:right;
+	color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	padding-top:8px;
+	padding-right:320px;
+	font-size: 16px
+}
+#content{
+	background-color: white;
+	margin: -10px;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	height: 550px;
+}
+p5{
+	color: black;
+	font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+p6{
+	color: black;
+	font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+.sign{
+	width: 1500px;
+	margin-left: 680px;
+}
+input{
+	margin-bottom: 5px;
+}
+#footer{
+	height:125px;
+	background:#3E1A5E;
+	background-size: cover;
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	outline-style:ridge;
+	outline-color: #9F9999;
+	padding: 50px;
+	color:white;
+}
+p7{
+	font-size: 20px;
+	font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+ul2 li{
+	list-style-type: none;
+	font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+p9{
+	float:right;
+	margin-top: -120px;
+	font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+image{
+	float: right;
+	
+}
+p8{
+	float:center;
+}
+
+ul3 li{
+	font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+	list-style-type: circle
+}
